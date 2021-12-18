@@ -1,0 +1,22 @@
+{
+   "cards":[{
+       "img":"images/m4.jpeg",
+       "name":"iphone11",
+       "rate":"72000",
+       "offer":"67999",
+       "button":"view"
+   },{
+    "img":"images/m8.jpeg",
+    "name":"oneplus",
+    "rate":"30000",
+    "offer":"24999",
+    "button":"view"
+   },{
+    "img":"images/m5.jpeg",
+    "name":"oppo",
+    "rate":"27999",
+    "offer":"22999",
+    "button":"view"
+   }
+   ]
+}
